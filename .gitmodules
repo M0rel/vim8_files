@@ -19,9 +19,6 @@
 [submodule "pack/colors/start/edge"]
 	path = pack/colors/start/edge
 	url = https://github.com/sainnhe/edge
-[submodule "pack/plugins/start/edge"]
-	path = pack/plugins/start/edge
-	url = https://github.com/sainnhe/edge
 [submodule "/home/vkharchuk/.vim/pack/plugins/start/vim-polyglot"]
 	path = /home/vkharchuk/.vim/pack/plugins/start/vim-polyglot
 	url = https://github.com/sheerun/vim-polyglot
