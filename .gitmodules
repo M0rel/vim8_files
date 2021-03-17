@@ -1,0 +1,27 @@
+[submodule "pack/plugins/start/cscope-maps"]
+	path = pack/plugins/start/cscope-maps
+	url = https://github.com/joe-skb7/cscope-maps.git
+[submodule "pack/syntax/start/linux-coding-style"]
+	path = pack/syntax/start/linux-coding-style
+	url = https://github.com/vivien/vim-linux-coding-style.git
+[submodule "pack/plugins/start/nerdtree"]
+	path = pack/plugins/start/nerdtree
+	url = https://github.com/preservim/nerdtree
+[submodule "pack/syntax/start/tagbar"]
+	path = pack/syntax/start/tagbar
+	url = https://github.com/preservim/tagbar
+[submodule "pack/plugins/start/file-line"]
+	path = pack/plugins/start/file-line
+	url = https://github.com/bogado/file-line
+[submodule "pack/plugins/start/vim-airline"]
+	path = pack/plugins/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "pack/colors/start/edge"]
+	path = pack/colors/start/edge
+	url = https://github.com/sainnhe/edge
+[submodule "pack/plugins/start/edge"]
+	path = pack/plugins/start/edge
+	url = https://github.com/sainnhe/edge
+[submodule "/home/vkharchuk/.vim/pack/plugins/start/vim-polyglot"]
+	path = /home/vkharchuk/.vim/pack/plugins/start/vim-polyglot
+	url = https://github.com/sheerun/vim-polyglot
